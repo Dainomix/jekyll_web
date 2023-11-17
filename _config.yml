@@ -63,3 +63,6 @@ address:
 # Build settings
 markdown: kramdown
 permalink: pretty
+
+# Google Analytics
+google_analytics: G-W547C3WGM1
